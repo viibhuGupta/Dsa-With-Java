@@ -56,6 +56,8 @@ while (i < j){
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
 
+        System.out.println("\n Rotate Matrix : \n");
+
         System.out.println("Enter the Row And Column Of Matrix");
         int row =sc.nextInt();
         int col =sc.nextInt();
