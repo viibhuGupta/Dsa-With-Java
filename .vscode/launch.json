@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Two_Sum",
+      "request": "launch",
+      "mainClass": "Two_Sum",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Rain_Total_water_trapping",
+      "request": "launch",
+      "mainClass": "Rain_Total_water_trapping",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "pacels_",
+      "request": "launch",
+      "mainClass": "pacels_",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "pacels_WithOut_fn",
+      "request": "launch",
+      "mainClass": "pacels_WithOut_fn",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Best_time_to_buy_Sell_stock",
+      "request": "launch",
+      "mainClass": "Best_time_to_buy_Sell_stock",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Input_of_some_integers_sort_the_integers",
       "request": "launch",
       "mainClass": "Java.Array.ArrayList.Input_of_some_integers_sort_the_integers",

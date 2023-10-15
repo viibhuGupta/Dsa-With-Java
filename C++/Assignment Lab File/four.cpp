@@ -7,11 +7,10 @@ private:
     double num2;
 
 public:
-    // Member function to get input from the user
     void getNumbers() {
         std::cout << "Enter the first number: ";
         std::cin >> num1;
-
+ 
         std::cout << "Enter the second number: ";
         std::cin >> num2;
     }
@@ -24,13 +23,10 @@ public:
 };
 
 int main() {
-    // Create an object of the Adder class
     Adder adderObj;
 
-    // Call member function to get input from the user
     adderObj.getNumbers();
 
-    // Call member function to add the numbers and display the result
     adderObj.addAndDisplay();
 
     return 0;
