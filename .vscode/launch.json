@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MergeTwoArrays",
+      "request": "launch",
+      "mainClass": "MergeTwoArrays",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "hy",
+      "request": "launch",
+      "mainClass": "hy",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "h",
+      "request": "launch",
+      "mainClass": "h",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "prb2",
+      "request": "launch",
+      "mainClass": "prb2",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "MERGE_2_sorted_ARRAY",
+      "request": "launch",
+      "mainClass": "MERGE_2_sorted_ARRAY",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "merge_2_Array",
+      "request": "launch",
+      "mainClass": "merge_2_Array",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Two_Sum",
       "request": "launch",
       "mainClass": "Two_Sum",
