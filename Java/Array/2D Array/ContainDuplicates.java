@@ -1,5 +1,9 @@
 import java.lang.reflect.Array;
 import java.util.*;
+
+
+/* https://leetcode.com/problems/contains-duplicate/description/ */
+
 public class ContainDuplicates {
 
     static boolean isContainDuplicates (int arr[]){

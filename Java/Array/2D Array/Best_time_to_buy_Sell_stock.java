@@ -1,5 +1,6 @@
 import java.util.*;
 import java.lang.Math;
+
 public class Best_time_to_buy_Sell_stock {
 
     public static void printArray(int arr[][]) {

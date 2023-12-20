@@ -2,10 +2,7 @@ import java.util.Arrays;
 
 public class ChocolateDistrbuation {
 
-    /* Given an array of N integers where each value represents the number of chocolates in a packet. Each packet can have a variable number of chocolates. There are m students, the task is to distribute chocolate packets such that
-
-    Input : arr[] = {7, 3, 2, 4, 9, 12, 56} , m = 3 
-    Output: Minimum Difference is 2  
+    /*  
     
     Link : https://www.geeksforgeeks.org/chocolate-distribution-problem/
      

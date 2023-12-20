@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class subOfSumArray {
+/* https://leetcode.com/problems/maximum-subarray/description/ */
+
+public class maxSubArray {
 
     public static int subArraysum (int arr[] ){
     int maxSum = 0;
@@ -16,6 +18,7 @@ public class subOfSumArray {
         if (curSum < 0) {
             curSum = 0 ;
         }
+      
 
     } return maxSum;
 }
@@ -24,8 +27,9 @@ public class subOfSumArray {
 public static void main ( String arg []){
    
 
-   
-   int nums [] = {-1};
+   // when i am tring to give -1 its return 0 but the need output is 1
+   int nums [] = {-2,1,-3,4,-1,2,1,-5,4};
+
 
     int result = subArraysum(nums);
    
