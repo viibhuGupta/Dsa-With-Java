@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainDuplicates",
+      "request": "launch",
+      "mainClass": "ContainDuplicates",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "subOfSumArray",
+      "request": "launch",
+      "mainClass": "subOfSumArray",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "prb",
+      "request": "launch",
+      "mainClass": "prb",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_subArray",
+      "request": "launch",
+      "mainClass": "sum_of_subArray",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumber",
+      "request": "launch",
+      "mainClass": "Java.Recursion.PrintNumber",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "reverse_An_Array",
+      "request": "launch",
+      "mainClass": "reverse_An_Array",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_An_Array",
+      "request": "launch",
+      "mainClass": "Reverse_An_Array",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "MergeTwoArrays",
       "request": "launch",
       "mainClass": "MergeTwoArrays",
