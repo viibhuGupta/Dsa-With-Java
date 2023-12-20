@@ -1,3 +1,5 @@
+import java.lang.reflect.Array;
+import java.util.*;
 public class ContainDuplicates {
 
     static boolean isContainDuplicates (int arr[]){
@@ -17,12 +19,42 @@ public class ContainDuplicates {
 
 
 
-    
+    // Using Sorting 
+
+    static void isContainDuplicatesSort(int nums[]){
+        // first Sort the Array
+        Arrays.sort(nums);
+
+        for(int i = 0 ; i < nums.length - 1 ; i++){  //  i < nums.length - 1  because this not go to check for out of boud to next index
+
+            if (nums[i] == nums[i+1])  {
+                
+                System.out.println("Repeat number Exists : " + nums[i]);
+                break;
+                
+            }
+            else{
+                System.out.println("Repeat number not Exists" );
+                break;
+            }
+        } 
+
+    }
+
+
+
     public static void main(String[] args) {
 
-            int num [] = {1,2,3,1};
+            int num [] = {1,2,3,4,8 ,1};
+            
             
             System.out.println(isContainDuplicates(num));
+
+           
+            isContainDuplicatesSort(num);
+
+
+            
     }
     
 }

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ChocolateDistrbuation",
+      "request": "launch",
+      "mainClass": "ChocolateDistrbuation",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "ContainDuplicates",
       "request": "launch",
       "mainClass": "ContainDuplicates",
