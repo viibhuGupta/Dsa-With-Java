@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Create_LinkedList",
+      "request": "launch",
+      "mainClass": "Java.LinkList.Create_LinkedList",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Search_in_Rotated_Array",
+      "request": "launch",
+      "mainClass": "Search_in_Rotated_Array",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "maxAndMinElement",
       "request": "launch",
       "mainClass": "maxAndMinElement",

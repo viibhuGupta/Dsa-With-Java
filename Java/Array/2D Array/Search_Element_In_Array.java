@@ -18,7 +18,7 @@ public class Search_Element_In_Array {
 
       for (int i = 0; i < arr.length; i++) {
             if (arr[i] == n) {
-                  System.out.println(i);
+                  System.out.println(arr[i]);
             }
 
             else{
