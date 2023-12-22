@@ -9,6 +9,15 @@ public class Print_LinkedList {
     public static Node head;
     public static Node tail;
 
+    static class Node {
+        int data ;
+        Node Next;
+
+        public Node (int data) {
+            this.data = data;
+            this.Next =null;
+        }
+    }
     public void addFirst(int data ){
 
         //  new node init
@@ -41,14 +50,17 @@ public class Print_LinkedList {
 
     }
 
-    public void printLL(){
+    public void print(){
+
+
+     
+
         if (head == null) {
             System.out.println("head is null");
             return;
         }
-
-        Node temp = head;
-        while (head != null) {
+   Node temp = head;
+        while (temp != null) {
             System.out.print(temp.data+"->");
             temp = temp.Next;
         }
@@ -57,13 +69,15 @@ public class Print_LinkedList {
     }
 
     public static void main (String arg[]){
-        LinkedList ll = new LinkedList();
+        Print_LinkedList ll = new Print_LinkedList();
 
-        ll.addFirst();
-        ll.printLL();
+        ll.print();
         ll.addFirst(1);
-        ll.printLL();
-        
+        ll.print();
+        ll.addLast(2);
+        ll.print();
+
+
 
         
     }

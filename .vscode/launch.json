@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Print_LinkedList",
+      "request": "launch",
+      "mainClass": "Java.LinkList.Print_LinkedList",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Two_Array_are_Equal",
       "request": "launch",
       "mainClass": "Two_Array_are_Equal",
