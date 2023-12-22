@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Two_Array_are_Equal",
+      "request": "launch",
+      "mainClass": "Two_Array_are_Equal",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Permute_two_arrays",
+      "request": "launch",
+      "mainClass": "Java.Sorting.Permute_two_arrays",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Search_Element",
+      "request": "launch",
+      "mainClass": "Search_Element",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Create_LinkedList",
       "request": "launch",
       "mainClass": "Java.LinkList.Create_LinkedList",

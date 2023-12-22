@@ -1,5 +1,7 @@
 package Java.Sorting;
 
+import java.util.Arrays;
+
 /* https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/ 
  * 
  * 
@@ -32,17 +34,35 @@ public class Permute_two_arrays {
     return nums ;
 }
 
-    static int [] sortDecendingOrder(int nums[]){
+    static int [] sortDecendingOrder(int arr[]){
 
-        for(int i = 0; i < nums.length ; i++){
+        for(int i = 0; i < arr.length ; i++){
 
-            for(int j = i + 1 ;j < nums.length ;j++ ){
-                if () {
+            for(int j = i + 1 ;j < arr.length ;j++ ){
+                if (arr[j] > arr[i]) {
+                    int temp = arr[j];
+                    arr[j] = arr[i];
+                    arr[i] = temp;
                     
                 }
             }
-        }
-        return nums;
+             
+        } return arr;
+
+       
+        
+        
+    }
+
+    public static void main(String[] args) {
+        
+        int arr [] = {1,4,2,6};
+       
+        arr = sortAssendingOrder(arr);
+        System.out.println(Arrays.toString(arr));
+        arr = sortDecendingOrder(arr);
+        System.out.println(Arrays.toString(arr));
+        
     }
     
 }

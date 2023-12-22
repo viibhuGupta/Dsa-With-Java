@@ -1,8 +1,10 @@
-public class Search_in_Rotated_Array {
+public class Search_Element_in_Rotated_Array {
 
     /* https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1125071933/ 
      * 
      * this code not work with [3,1] , target = 1 ;
+     * 
+     * https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions
      */
 
     static int searchElement(int nums[] , int target){
@@ -43,13 +45,29 @@ public class Search_in_Rotated_Array {
 return -1;
     }
 
+    
+
+    static int searchElement2(int arr[]  ,int  X){
+        for (int i = 0 ; i <= arr.length ; i++){
+
+              if(arr[i] == X ){
+                return i;   // i return index and arr[i] return Element index   
+              }
+
+          }
+          return -1;
+      }
+
+    
+
 
 
     public static void main (String arg[]){
         int nums[] = {3,1,9};
-        int target = 1;
+        int target = 3;
 
         System.out.println(searchElement(nums, target));
+        System.out.println(searchElement2(nums, target));
     }
     
 }
