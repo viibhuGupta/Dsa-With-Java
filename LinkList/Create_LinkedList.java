@@ -1,4 +1,4 @@
-package Java.LinkList;
+// package Java.LinkList;
 
 import java.util.LinkedList;
 
@@ -37,12 +37,14 @@ public class Create_LinkedList {
 
         // Step 4: head = newNode
         head = newNode;
+
+       
     }
 
 
 
     public static void main (String arg[]){
-        LinkedList ll = new LinkedList();
+        Create_LinkedList ll = new Create_LinkedList();
         ll.addFirst(l);
     }
 }

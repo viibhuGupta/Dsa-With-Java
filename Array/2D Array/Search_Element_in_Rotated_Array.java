@@ -6,8 +6,8 @@ public class Search_Element_in_Rotated_Array {
      * 
      * https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions
      */
-
-    static int searchElement(int nums[] , int target){
+// Binary search Algorithm
+    static int searchElement(int nums[] , int target){  
 
      int low = 0; // first index
      int high = nums.length - 1; // last index
@@ -63,11 +63,11 @@ return -1;
 
 
     public static void main (String arg[]){
-        int nums[] = {3,1,9};
-        int target = 3;
+        int nums[] = {3,1,4};
+        int target = 1;
 
         System.out.println(searchElement(nums, target));
-        System.out.println(searchElement2(nums, target));
+        // System.out.println(searchElement2(nums, target));
     }
     
 }

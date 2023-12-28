@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Stack_Using_LinkedList",
+      "request": "launch",
+      "mainClass": "Stack_Using_LinkedList",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Stack_ArrayList",
+      "request": "launch",
+      "mainClass": "Stack_ArrayList",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Search_Element_in_Rotated_Array",
+      "request": "launch",
+      "mainClass": "Search_Element_in_Rotated_Array",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "find",
+      "request": "launch",
+      "mainClass": "find",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Print_LinkedList",
+      "request": "launch",
+      "mainClass": "Print_LinkedList",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "AddFirst_In_linkedList",
+      "request": "launch",
+      "mainClass": "AddFirst_In_linkedList",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Size_Print_LL",
+      "request": "launch",
+      "mainClass": "Size_Print_LL",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Add_Index_In_LL",
+      "request": "launch",
+      "mainClass": "Add_Index_In_LL",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Print_LinkedList",
       "request": "launch",
       "mainClass": "Java.LinkList.Print_LinkedList",

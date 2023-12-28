@@ -1,8 +1,8 @@
-package Java.LinkList;
+// package Java.LinkList;
 
 import java.util.LinkedList;
 
-import Java.LinkList.Create_LinkedList.Node;
+// import Java.LinkList.Create_LinkedList.Node;
 
 public class Print_LinkedList {
 
@@ -51,10 +51,7 @@ public class Print_LinkedList {
     }
 
     public void print(){
-
-
-     
-
+        
         if (head == null) {
             System.out.println("head is null");
             return;

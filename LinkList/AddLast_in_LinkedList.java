@@ -1,12 +1,22 @@
-package Java.LinkList;
+// package Java.LinkList;
 
 import java.util.LinkedList;
 
-import Java.LinkList.Create_LinkedList.Node;
+// import Java.LinkList.Create_LinkedList.Node;
 
 public class AddLast_in_LinkedList {
     public static Node head;
     public static Node tail;
+
+    static class Node {
+        int data ;
+        Node Next;
+
+        public Node (int data) {
+            this.data = data;
+            this.Next =null;
+        }
+    }
 
     public void addLast(int data ){
 
