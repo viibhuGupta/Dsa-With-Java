@@ -5,18 +5,25 @@ import java.util.LinkedList;
 // import Java.LinkList.Create_LinkedList.Node;
 
 public class AddLast_in_LinkedList {
+
+    // Double LinkedList
     public static Node head;
     public static Node tail;
 
     static class Node {
         int data ;
         Node Next;
+        Node Prev;
 
         public Node (int data) {
             this.data = data;
             this.Next =null;
+            this.Prev =null;
         }
     }
+
+
+
 
     public void addLast(int data ){
 
@@ -42,3 +49,11 @@ public class AddLast_in_LinkedList {
 
     }
 }
+
+
+
+
+
+
+
+

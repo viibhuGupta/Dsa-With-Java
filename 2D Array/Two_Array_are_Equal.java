@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Two_Array_are_Equal {
 
-
+//  EX OF BUBBLE SORT ALGORITHM
       static int [] sortArray (int arr[]){
 
             for(int i = 0 ; i < arr.length ; i++){

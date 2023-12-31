@@ -42,7 +42,6 @@ public class AddFirst_In_linkedList {
 
         ll.addFirst(1);
        
-
     }
     
 }

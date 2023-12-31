@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class find {
 
+    // Linear Search Algorithm
     static int linearSearch(int arr[], int target) {
         int n = arr.length;
         for (int i = 0; i < n; i++) {

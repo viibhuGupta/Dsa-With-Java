@@ -67,7 +67,7 @@ public class Add_Index_In_LL {
     }
 
 
-    public void addIndex(int index , int data){
+    public void addAtIndex(int index , int data){
         if (index == 0) {
             addFirst(data);
             return;
@@ -99,7 +99,7 @@ public class Add_Index_In_LL {
         ll.print();
         ll.addLast(8);
         ll.print();
-        ll.addIndex(2, 12);
+        ll.addAtIndex(2, 12);
         ll.print();
         
     }

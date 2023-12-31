@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Queue_Using_Array",
+      "request": "launch",
+      "mainClass": "Queue_Using_Array",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Stack_Using_LinkedList",
       "request": "launch",
       "mainClass": "Stack_Using_LinkedList",

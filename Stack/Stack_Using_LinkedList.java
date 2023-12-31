@@ -22,7 +22,7 @@ public class Stack_Using_LinkedList {
             return head == null;
         }
 
-        // push
+        // push Using LinkedList
         public static void push (int data ){
             Node newNode = new Node (data);
 
@@ -35,7 +35,7 @@ public class Stack_Using_LinkedList {
             head = newNode;
         } 
 
-        // pop
+        // pop using LinkedList
         public  static int pop(){
             if (isEmpty()) {
                 return -1;
