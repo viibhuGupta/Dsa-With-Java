@@ -16,11 +16,11 @@ class Complex{
     // operator overloading 
     Complex operator+(const Complex & other) const {
         return Complex(real + other.real , image + other.image);
-    }
+    };
 
 
     //  overloading to print comples
-  friend std::ostream & operator<<(std::ostream& os , const Complex& c ){ 
+  friend ostream & operator<<(ostream& os , const Complex& c ){ 
     // ostream is the return type of the operator overloading
     // << this is output stream
     os << c.real << " + " << c.image <<"i";

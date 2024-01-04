@@ -1,53 +1,53 @@
 #include <iostream>
 using namespace std;
 
-// class Animal{
+class Animal{
 
-//   public :  void Dog (){
-//     cout<<"Dog is Barking";
-//   } 
+  public :  void Dog (){
+    cout<<"Dog is Barking";
+  } 
 
-// };
+};
 
-// class Cat : public Animal{
+class Cat : public Animal{
 
 
-// };
+};
 
-// class A {
+class A {
 
-// };
+};
 
-// class B : A {
+class B : A {
 
-// };
-// class c : B{
+};
+class c : B{
 
-// };
+};
 
-// //  multilevel inheritance
-// class shape{
-//     //  write code for shape
-// };
+//  multilevel inheritance
+class shape{
+    //  write code for shape
+};
 
-// class circle : shape{
+class circle : shape{
 
-// };
+};
 
-// class squire : shape{
+class squire : shape{
 
-// };
+};
 
-// // multilevel
-// class a {
+// multilevel
+class a {
 
-// };
-// class b {
+};
+class b {
 
-// };
-// class c : a ,b{
+};
+class c : a ,b{
 
-// };
+};
 
 //  Base class and Drived class
 class Animal2{
