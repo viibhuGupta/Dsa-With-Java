@@ -15,7 +15,7 @@ void multiplyMatrices(int matrix1[][100], int matrix2[][100], int result[][100],
         for (int j = 0; j < cols2; ++j) {
             result[i][j] = 0;
             for (int k = 0; k < cols1; ++k) {
-                result[i][j] += matrix1[i][k] * matrix2[k][j];
+                result[i][j] = result[i][j] + matrix1[i][k] * matrix2[k][j];
             }
         }
     }

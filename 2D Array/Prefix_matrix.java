@@ -10,9 +10,7 @@ public class Prefix_matrix {
                   for(int j = r1 ; j <= r2 ; j++){
                         sum += matrix[i] [j];
                   }
-
             }
-
             return sum ;
       }
       public static void main(String[] args) {

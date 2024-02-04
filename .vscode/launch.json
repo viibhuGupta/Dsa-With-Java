@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Print_Only_positive_integers",
+      "request": "launch",
+      "mainClass": "ArrayList.Print_Only_positive_integers",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Sprial_Matrix_Generate",
+      "request": "launch",
+      "mainClass": "Sprial_Matrix_Generate",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "sumOf_prefix_Without_NestedLoop",
+      "request": "launch",
+      "mainClass": "sumOf_prefix_Without_NestedLoop",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Rain_Most_water_trapping_box",
+      "request": "launch",
+      "mainClass": "Rain_Most_water_trapping_box",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "plusOneWithout_using_fn",
+      "request": "launch",
+      "mainClass": "plusOneWithout_using_fn",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Queue_Using_Array",
       "request": "launch",
       "mainClass": "Queue_Using_Array",
