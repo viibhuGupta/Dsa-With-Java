@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Searhch_element",
+      "request": "launch",
+      "mainClass": "LinearSearch.Searhch_element",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "Print_Only_positive_integers",
       "request": "launch",
       "mainClass": "ArrayList.Print_Only_positive_integers",
