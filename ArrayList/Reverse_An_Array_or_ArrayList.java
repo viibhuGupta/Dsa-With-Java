@@ -1,5 +1,5 @@
 /* Reverse An Array List  */
-package Java.Array.ArrayList;
+package ArrayList;
 import java.util.ArrayList;
 import java.util.Collections;
 

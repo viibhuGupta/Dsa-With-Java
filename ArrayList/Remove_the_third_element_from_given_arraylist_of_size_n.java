@@ -1,5 +1,5 @@
 /* Write a Java program to remove the third element from given arraylist of size n. */
-package Java.Array.ArrayList;
+package ArrayList;
 
 import java.util.ArrayList;
 

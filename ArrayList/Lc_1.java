@@ -1,4 +1,4 @@
-package Java.Array.ArrayList;
+package ArrayList;
 
 public class Lc_1 {
       public static void main(String[] args) {

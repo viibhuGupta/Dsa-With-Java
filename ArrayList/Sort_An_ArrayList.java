@@ -1,5 +1,5 @@
 /* Sort Element In Array List Using Collections Method */
-package Java.Array.ArrayList;
+package ArrayList;
 import java.util.Collections;
 import java.util.ArrayList;
 

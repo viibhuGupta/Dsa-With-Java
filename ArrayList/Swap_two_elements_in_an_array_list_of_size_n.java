@@ -1,5 +1,5 @@
 /* Write a Java program to swap two elements in an array list of size n */
-package Java.Array.ArrayList;
+package ArrayList;
 
 
 import java.util.ArrayList;

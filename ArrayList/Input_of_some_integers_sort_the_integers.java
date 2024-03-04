@@ -1,6 +1,6 @@
 /*  Given an input of some integers, sort the integers */
-package Java.Array.ArrayList;
-
+// package Java.Array.ArrayList;
+package ArrayList;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Collections;

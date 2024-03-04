@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "insert_an_element_into_given_array_list_of_size_n_at_the_first_position",
+      "request": "launch",
+      "mainClass": "ArrayList.insert_an_element_into_given_array_list_of_size_n_at_the_first_position",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "Input_of_some_integers_sort_the_integers",
+      "request": "launch",
+      "mainClass": "ArrayList.Input_of_some_integers_sort_the_integers",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "LsbMsb",
+      "request": "launch",
+      "mainClass": "BitManupulations.LsbMsb",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "Searhch_element",
       "request": "launch",
       "mainClass": "LinearSearch.Searhch_element",
