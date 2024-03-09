@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Best_time_to_buy_Sell_stock",
+      "request": "launch",
+      "mainClass": "Best_time_to_buy_Sell_stock",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "Searhch_element",
+      "request": "launch",
+      "mainClass": "LinearSearch.Searhch_element",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "insert_an_element_into_given_array_list_of_size_n_at_the_first_position",
       "request": "launch",
       "mainClass": "ArrayList.insert_an_element_into_given_array_list_of_size_n_at_the_first_position",
