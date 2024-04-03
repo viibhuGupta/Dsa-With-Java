@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinearSearchMutipleOcour",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearchMutipleOcour",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "MaxLinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch.MaxLinearSearch",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "ContainDuplicates",
+      "request": "launch",
+      "mainClass": "ContainDuplicates",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "Best_time_to_buy_Sell_stock",
       "request": "launch",
       "mainClass": "Best_time_to_buy_Sell_stock",
