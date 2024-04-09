@@ -1,4 +1,4 @@
-package LinearSearch;
+package Array;
 
 public class Searhch_element {
 

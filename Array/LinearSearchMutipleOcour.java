@@ -1,4 +1,4 @@
-package LinearSearch;
+package Array;
 
 public class LinearSearchMutipleOcour {
     public static void main(String[] args) {

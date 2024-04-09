@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "findKey",
+      "request": "launch",
+      "mainClass": "Array.findKey",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "findKey",
+      "request": "launch",
+      "mainClass": "LinearSearch.findKey",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "h",
+      "request": "launch",
+      "mainClass": "h",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "LinearSearchMutipleOcour",
       "request": "launch",
       "mainClass": "LinearSearch.LinearSearchMutipleOcour",

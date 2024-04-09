@@ -45,6 +45,6 @@ public class Create_LinkedList {
 
     public static void main (String arg[]){
         Create_LinkedList ll = new Create_LinkedList();
-        ll.addFirst(l);
+        // ll.addFirst(l);
     }
 }

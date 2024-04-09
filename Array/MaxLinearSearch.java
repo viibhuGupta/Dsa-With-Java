@@ -1,4 +1,4 @@
-package LinearSearch;
+package Array;
 
 public class MaxLinearSearch {
   public static void main(String[] args) {

@@ -7,6 +7,10 @@ public class ChocolateDistrbuation {
     Link : https://www.geeksforgeeks.org/chocolate-distribution-problem/
      
     */
+
+    public static void findNumer(int n){
+        
+    }
     
     static int findMinChocolateDistributionDiff (int arr[]  , int m){
 
