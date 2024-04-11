@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sumOFMIN_Max",
+      "request": "launch",
+      "mainClass": "Array.sumOFMIN_Max",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "Smallest",
       "request": "launch",
       "mainClass": "Array.Smallest",
