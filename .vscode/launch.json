@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Smallest",
+      "request": "launch",
+      "mainClass": "Array.Smallest",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "LargestinArray",
+      "request": "launch",
+      "mainClass": "Array.LargestinArray",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "findKey",
       "request": "launch",
       "mainClass": "Array.findKey",
