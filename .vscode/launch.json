@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "Array.BinarySearch",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "Array.ReverseArray",
+      "projectName": "DSA_54535622"
+    },
+    {
+      "type": "java",
       "name": "sumOFMIN_Max",
       "request": "launch",
       "mainClass": "Array.sumOFMIN_Max",
