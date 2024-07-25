@@ -2,7 +2,7 @@ package Array;
 
 public class Smallest {
 
-    public static int [] getSmallestElementIndex (int arr[]){
+    public static int [] getSmallestElementORIndex (int arr[]){
         int smallest = Integer.MAX_VALUE; // + infinity
         int index = -1;
         for (int i = 0; i < arr.length; i++) {
@@ -29,7 +29,7 @@ public class Smallest {
     
     public static void main(String[] args) {
         int arr[] = { 12, 8, 6, 1, 0 };
-        int ans []= getSmallestElementIndex(arr);
+        int ans []= getSmallestElementORIndex(arr);
         int  smallest = ans[0];
         int index = ans[1];
 

@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Smallest",
+      "request": "launch",
+      "mainClass": "Array.Smallest",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "sumOFMIN_Max",
+      "request": "launch",
+      "mainClass": "Array.sumOFMIN_Max",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "ArrayBro",
+      "request": "launch",
+      "mainClass": "ArrayBro",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "DecimalNumber",
+      "request": "launch",
+      "mainClass": "DecimalNumber",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "Array.BinarySearch",
+      "projectName": "DSA_8cf5328b"
+    },
+    {
+      "type": "java",
       "name": "BinarySearch",
       "request": "launch",
       "mainClass": "Array.BinarySearch",
