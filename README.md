@@ -2,7 +2,12 @@
 
 ## Lets Preapre Together For Plcement
 
-### Day 1st
+## [LeetCode 💯🚀🎯](https://leetcode.com/u/vibhuGupta/)
 
-- Q1 [HABIT TRACKER](https://habit-trackerr.vercel.app/)
+
+## Searching
+
+> Linear Search 🔎 💻 👀
+
+- Q1. [search an Element / first occurrence](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 
