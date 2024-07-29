@@ -17,19 +17,17 @@ public class sumOFmaxSubArray {
             int sum = 0;
             for (int j = 0; j < arr[i].length; j++) {
 
-            sum = sum + arr[i][j];
-           
+                sum = sum + arr[i][j];
+
+            }
+            if (sum > max) {
+                max = sum;
+                resIndex = i;
+            }
 
         }
-        if (sum > max) {
-            max = sum;
-            resIndex = i;
-               }
 
-
-        }
-
-        System.out.println("Maximum sum of Subarrya is "+max+", for the index "+resIndex);
+        System.out.println("Maximum sum of Subarrya is " + max + ", for the index " + resIndex);
 
     }
 

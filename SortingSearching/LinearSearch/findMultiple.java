@@ -2,7 +2,7 @@ public class findMultiple {
     public static void main(String[] args) {
         int arr[] = { 1, 6, 1, 2, 1, 6 };
 
-        linearSearchMultiple(arr, 6);
+        linearSearchMultiple(arr, 60);
     }
 
     public static void linearSearchMultiple(int[] arr, int target) {
