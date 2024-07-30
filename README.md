@@ -7,7 +7,11 @@
 
 ## Searching
 
-> Linear Search 🔎 💻 👀
+> Searching 🔎 💻 👀
 
-- Q1. [search an Element / first occurrence](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- Q1. [Find First and Last Position of Element in Sorted Array](https://rb.gy/vfx2br)
+    [Solution ](https://rb.gy/vfx2br)
+- Q2. [Find the number of occurrences of an element in a sorted array](https://rb.gy/wifnus)
+    [Solution ](https://rb.gy/vfx2br)
+
 
