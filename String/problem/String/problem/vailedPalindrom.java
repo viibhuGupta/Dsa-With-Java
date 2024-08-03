@@ -12,7 +12,6 @@ public class vailedPalindrom {
             }
         }
 
-       
         int n = sb.length();
         for (int i = 0; i < sb.length() / 2; i++) {
             if (sb.charAt(i) != sb.charAt(n - 1 - i)) {
@@ -24,7 +23,7 @@ public class vailedPalindrom {
 
     public static void main(String[] args) {
         String s = "A man, a plan, a canal: Panama";
-        
+
         System.out.println(isVailedPalindrom(s));
         // System.out.println(isPalindrom(s));
     }
